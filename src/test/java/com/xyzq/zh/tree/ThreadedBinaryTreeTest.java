@@ -4,6 +4,9 @@ import org.junit.Test;
 
 public class ThreadedBinaryTreeTest {
 	
+	/**
+	 * 线索二叉树遍历测试
+	 */
 	@Test
 	public void testPrint() {
 		System.out.println("线索二叉树经建立后，以中序追踪能有排序的效果");
