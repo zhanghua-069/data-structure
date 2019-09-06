@@ -18,6 +18,7 @@ public class ThreadedBinaryTreeTest {
 		System.out.println("数字由小到大的排列顺序结果为：");
 		tree1.print();
 		
+		// 测试范例2
 		int data2[] = {0, 101, 118, 87, 12, 765, 65};
 		ThreadedBinaryTree tree2 = new ThreadedBinaryTree(data2);
 		System.out.println("=======================");
