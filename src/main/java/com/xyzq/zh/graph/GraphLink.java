@@ -43,6 +43,7 @@ public class GraphLink {
 			System.out.print("[" + current.x + "]");
 			current = current.next;
 		}
+		System.out.println();
 	}
 	
 }

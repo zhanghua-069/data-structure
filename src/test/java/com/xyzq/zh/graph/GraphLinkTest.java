@@ -23,7 +23,6 @@ public class GraphLinkTest {
 			}
 			
 			linkArr[i].print();
-			System.out.println();
 		}
 		
 	}
