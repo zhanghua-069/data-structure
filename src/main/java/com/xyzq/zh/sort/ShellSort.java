@@ -3,7 +3,7 @@ package com.xyzq.zh.sort;
 import java.util.Arrays;
 
 /**
- * 希尔排序法
+ * 简单排序法-希尔排序法
  * 
  * 希尔排序：稳定排序法
  * 排序原理：基于插入排序，减少数据搬移次数

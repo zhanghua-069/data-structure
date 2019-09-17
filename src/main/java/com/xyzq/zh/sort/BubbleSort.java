@@ -3,7 +3,7 @@ package com.xyzq.zh.sort;
 import java.util.Arrays;
 
 /**
- * 改进版冒泡排序法
+ * 简单排序法-改进版冒泡排序法
  * 
  * 冒泡排序：稳定排序法
  * 比较次数：n(n-1)/2
