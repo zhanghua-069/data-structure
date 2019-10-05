@@ -72,6 +72,7 @@ public class PolyLinkedList {
 	 * @return
 	 */
 	public PolyLinkedList sumLink(PolyLinkedList b) {
+		@SuppressWarnings("unused")
 		int i = 0, maxnumber;
 		/**
 		 * 多项式计算结果系数存放数组
